@@ -1,6 +1,6 @@
 ![SmartCut Logo](logo_smartcut.png)
 
-# Login Details:
+# Login Details :
 
 *  SUPER ADMIN LOGIN : 
 --------------------------------
@@ -28,7 +28,6 @@
 
 
 # Project Database
-Alt-H1
 > NOTE : DON'T FORGET TO CREATE A DATABASE NAMING "smartcut_salon" AND IMPORT THE SQL FILE TO 	RUN.WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 > DATABASE FILE IS INSIDE "database" FOLDER!
@@ -37,5 +36,4 @@ Alt-H1
 
 
 ### PROJECT CREATED BY : VIPANI GAURAV J.
-Alt-H2
 > PROJECT DOWNLOAD FROM GITHUB LINK : https://github.com/Gaurav-Vipani/salon_booking_system_ci
