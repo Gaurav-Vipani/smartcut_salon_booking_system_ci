@@ -1,7 +1,6 @@
 ![SmartCut Logo](logo_smartcut.png)
 
-#Login Details:
-Alt-H1
+# Login Details:
 
 *  SUPER ADMIN LOGIN : 
 --------------------------------
@@ -37,6 +36,6 @@ Alt-H1
 
 
 
-###PROJECT CREATED BY : VIPANI GAURAV J.
+### PROJECT CREATED BY : VIPANI GAURAV J.
 Alt-H2
 > PROJECT DOWNLOAD FROM GITHUB LINK : https://github.com/Gaurav-Vipani/salon_booking_system_ci
