@@ -1,4 +1,4 @@
-![SmartCut Logo](/logo_smartcut)
+![SmartCut Logo](logo_smartcut.png)
 
 #Login Details:
 Alt-H1
@@ -16,16 +16,16 @@ Alt-H1
 > NOTE : (for salon owner side panel, login from the user's login)
 > Enter the following details in Login for salon owner/admin Panel.
 
-Username : 9033930035
-Password : Gaurav@123
+>> Username : 9033930035
+>> Password : Gaurav@123
 
 *  CUSTOMER LOGIN : 
 --------------------------------
 > NOTE : (for customer side panel, login from the user's login)
 > Enter the following details in Login for customer Panel.
 
-Username : 9737493751
-Password : Gaurav@123
+>> Username : 9737493751
+>> Password : Gaurav@123
 
 
 # Project Database
@@ -39,4 +39,4 @@ Alt-H1
 
 ###PROJECT CREATED BY : VIPANI GAURAV J.
 Alt-H2
->PROJECT DOWNLOAD FROM GITHUB LINK : https://github.com/Gaurav-Vipani/salon_booking_system_ci
+> PROJECT DOWNLOAD FROM GITHUB LINK : https://github.com/Gaurav-Vipani/salon_booking_system_ci
